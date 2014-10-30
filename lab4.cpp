@@ -1,1 +1,6 @@
-Hello world
+//Hello world
+
+class lab4
+{
+    
+};
